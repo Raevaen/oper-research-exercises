@@ -167,3 +167,4 @@ cython_debug/
 
 # C#
 [O|o]bj/
+[B|b]in/
